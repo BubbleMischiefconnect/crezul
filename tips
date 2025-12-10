@@ -1,0 +1,20 @@
+[
+  {
+    "id": "tip_1",
+    "title": "Track Every Expense for 7 Days",
+    "category": "Budgeting",
+    "difficulty": "easy",
+    "shortDescription": "Write down everything you spend for one week.",
+    "details": "Use a simple notes app or a spreadsheet. At the end of the week, highlight expenses you didn't really need.",
+    "estimatedMonthlySave": 50
+  },
+  {
+    "id": "tip_2",
+    "title": "Use the 24-Hour Rule",
+    "category": "Impulse purchases",
+    "difficulty": "medium",
+    "shortDescription": "Wait one day before non-essential purchases.",
+    "details": "If you still want it after 24 hours, buy it. If not, you just saved money.",
+    "estimatedMonthlySave": 80
+  }
+]
