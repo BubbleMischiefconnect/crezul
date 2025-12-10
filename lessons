@@ -1,0 +1,20 @@
+[
+  {
+    "id": "lesson_1",
+    "title": "How Loans Really Work",
+    "category": "Loans",
+    "readingTimeMinutes": 5,
+    "shortDescription": "Understand principal, interest and total cost of a loan.",
+    "content": "When you take a loan, you always pay back more than you borrow. The extra part is called interest...",
+    "level": "beginner"
+  },
+  {
+    "id": "lesson_2",
+    "title": "What Is APR and Why It Matters",
+    "category": "Loans",
+    "readingTimeMinutes": 7,
+    "shortDescription": "Learn the difference between interest rate and APR.",
+    "content": "APR (Annual Percentage Rate) includes not only the interest rate, but also fees and other costs...",
+    "level": "intermediate"
+  }
+]
