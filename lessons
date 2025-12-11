@@ -3,18 +3,135 @@
     "id": "lesson_1",
     "title": "How Loans Really Work",
     "category": "Loans",
-    "readingTimeMinutes": 5,
-    "shortDescription": "Understand principal, interest and total cost of a loan.",
-    "content": "When you take a loan, you always pay back more than you borrow. The extra part is called interest...",
+    "readingTimeMinutes": 6,
+    "shortDescription": "Understand principal, interest, and the total cost of a loan.",
+    "content": "Every loan consists of two parts: the principal (the amount you borrow) and the interest (the additional amount you pay for using the lender's money). Lenders charge interest because they take risk and need to make profit. When you calculate the true cost of a loan, it's important to consider not just the interest rate, but also the term length and any additional fees. Longer loans may have smaller monthly payments, but you often pay more total interest over time.",
     "level": "beginner"
   },
   {
     "id": "lesson_2",
     "title": "What Is APR and Why It Matters",
     "category": "Loans",
-    "readingTimeMinutes": 7,
+    "readingTimeMinutes": 8,
     "shortDescription": "Learn the difference between interest rate and APR.",
-    "content": "APR (Annual Percentage Rate) includes not only the interest rate, but also fees and other costs...",
+    "content": "APR (Annual Percentage Rate) is a way to measure the full cost of borrowing. Unlike the simple interest rate, APR includes additional expenses such as origination fees, service fees, or insurance. This makes APR the best metric for comparing loans from different companies. Even if a lender advertises a low interest rate, a high APR means you will pay more than expected. When comparing loans, always check APR — it reveals the true price.",
     "level": "intermediate"
+  },
+  {
+    "id": "lesson_3",
+    "title": "Understanding Loan Terms and Hidden Costs",
+    "category": "Loans",
+    "readingTimeMinutes": 7,
+    "shortDescription": "Learn how repayment terms affect the total cost.",
+    "content": "Loan terms define how long you have to repay the loan. A longer repayment term usually means smaller monthly payments, but higher total interest. Some lenders also apply early repayment fees, processing charges, or late penalties. Always read the contract carefully and calculate the total cost over the full term. A cheaper monthly payment does not always mean a cheaper loan.",
+    "level": "beginner"
+  },
+  {
+    "id": "lesson_4",
+    "title": "How to Compare Two Loans Correctly",
+    "category": "Loans",
+    "readingTimeMinutes": 9,
+    "shortDescription": "A step-by-step guide to choosing the best loan.",
+    "content": "To compare loans, look at four main factors: (1) APR, (2) total repayment amount, (3) monthly payment, and (4) loan term. Calculate how much interest you will pay over the entire duration. Then consider flexibility — some lenders allow earlier repayment without penalties. Finally, review any additional fees included in the contract. A systematic comparison helps you avoid overpaying and choose the most cost-effective option.",
+    "level": "intermediate"
+  },
+  {
+    "id": "lesson_5",
+    "title": "What Affects Your Loan Approval",
+    "category": "Loans",
+    "readingTimeMinutes": 7,
+    "shortDescription": "Understand what lenders analyze before approving a loan.",
+    "content": "Loan approval depends on your financial behavior. Lenders evaluate your income stability, spending habits, debt-to-income ratio, and past credit performance. They also look at how often you borrow and how quickly you repay. A strong repayment history increases your chances of approval and may help you get better interest rates. To improve your profile, avoid late payments, keep your debts low, and maintain stable income sources.",
+    "level": "intermediate"
+  },
+  {
+    "id": "lesson_6",
+    "title": "How to Avoid Debt Traps",
+    "category": "Loans",
+    "readingTimeMinutes": 8,
+    "shortDescription": "Learn how borrowers fall into debt and how to avoid it.",
+    "content": "Debt traps usually happen when someone continuously borrows money to repay previous loans. High-interest short-term loans can accumulate quickly if not repaid on time. To avoid this, always borrow responsibly: take only what you truly need, calculate realistic repayment capability, and avoid borrowing from multiple lenders at the same time. Building a small emergency fund also reduces the chance of falling into debt.",
+    "level": "beginner"
+  },
+  {
+    "id": "lesson_7",
+    "title": "Smart Borrowing: When Taking a Loan Makes Sense",
+    "category": "Financial Planning",
+    "readingTimeMinutes": 6,
+    "shortDescription": "Understand when borrowing money can be a good financial decision.",
+    "content": "Loans aren't always bad. Borrowing is smart when it helps you invest in something important — education, career development, or essential needs. A well-planned loan can improve your situation if you understand the terms and repay on time. However, borrowing for luxury products or non-essential purchases often leads to unnecessary financial pressure. The key is balancing need, cost, and repayment capacity.",
+    "level": "beginner"
+  },
+  {
+    "id": "lesson_8",
+    "title": "How to Build an Emergency Fund",
+    "category": "Budgeting",
+    "readingTimeMinutes": 7,
+    "shortDescription": "A practical approach to protect yourself from unexpected expenses.",
+    "content": "An emergency fund is money reserved for unplanned situations — medical emergencies, repairs, or sudden job loss. Experts suggest saving at least 1–3 months of essential expenses. Start small: set aside even 5–10% of your income each month. Keep your fund in a simple, accessible account. A solid emergency reserve prevents the need to take high-interest loans during difficult moments.",
+    "level": "beginner"
+  },
+  {
+    "id": "lesson_9",
+    "title": "Creating a Simple Personal Budget",
+    "category": "Budgeting",
+    "readingTimeMinutes": 7,
+    "shortDescription": "A beginner-friendly method to manage your money.",
+    "content": "Budgeting helps you understand how much you earn, spend, and save. The easiest method is the 50/30/20 rule: 50% of your income goes to needs, 30% to wants, and 20% to savings or debt repayment. Track your spending for at least one month. Once you understand where your money goes, you can cut unnecessary expenses and redirect funds to more important goals.",
+    "level": "beginner"
+  },
+  {
+    "id": "lesson_10",
+    "title": "How Interest Works on Savings",
+    "category": "Savings",
+    "readingTimeMinutes": 6,
+    "shortDescription": "Learn how compound interest helps your savings grow.",
+    "content": "When your savings earn interest, that interest can generate more interest — this is called compound growth. Even small regular deposits accumulate significantly over time. The key drivers of growth are deposit size, interest rate, and time. The earlier you start saving, the more powerful compounding becomes. Many people underestimate how quickly savings can grow with consistent contributions.",
+    "level": "intermediate"
+  },
+  {
+    "id": "lesson_11",
+    "title": "The Psychology of Spending",
+    "category": "Behavior",
+    "readingTimeMinutes": 8,
+    "shortDescription": "Why we overspend and how to control impulse purchases.",
+    "content": "Impulse buying often happens due to emotions, stress, or persuasive marketing. Companies use psychological techniques to influence behavior — limited-time offers, discounts, and targeted ads. To reduce overspending, apply strategies like the 24-hour rule, shopping lists, or budgeting apps. Awareness is the first step to building healthier money habits.",
+    "level": "beginner"
+  },
+  {
+    "id": "lesson_12",
+    "title": "Understanding Your Credit Score",
+    "category": "Credit",
+    "readingTimeMinutes": 7,
+    "shortDescription": "What influences your credit score and why it matters.",
+    "content": "Your credit score reflects how reliably you repay debts. It is influenced by payment history, total debts, credit age, and the variety of accounts you use. A higher credit score increases your chances of loan approval and can help you get lower interest rates. Improving your score requires on-time payments, keeping balances low, and avoiding unnecessary new loans.",
+    "level": "intermediate"
+  },
+  {
+    "id": "lesson_13",
+    "title": "How to Set Realistic Financial Goals",
+    "category": "Financial Planning",
+    "readingTimeMinutes": 6,
+    "shortDescription": "A simple method for building long-term financial stability.",
+    "content": "Financial goals help you stay focused and disciplined. Use the SMART method: goals should be Specific, Measurable, Achievable, Relevant, and Time-bound. Examples include saving for a trip, repaying a loan early, or building an emergency fund. Clear goals help you make better decisions and stay motivated.",
+    "level": "beginner"
+  },
+  {
+    "id": "lesson_14",
+    "title": "How to Manage Multiple Loans",
+    "category": "Loans",
+    "readingTimeMinutes": 8,
+    "shortDescription": "Strategies to avoid confusion and reduce stress.",
+    "content": "If you have more than one loan, prioritize them by interest rate and repayment penalties. A common method is the 'avalanche strategy': pay off the highest-interest loan first to reduce total costs. Another method is the 'snowball strategy', where you repay the smallest loan first to build motivation. Always track due dates to avoid late fees.",
+    "level": "intermediate"
+  },
+  {
+    "id": "lesson_15",
+    "title": "Understanding Cash Flow",
+    "category": "Budgeting",
+    "readingTimeMinutes": 7,
+    "shortDescription": "Learn how money flows in and out of your life.",
+    "content": "Cash flow represents the movement of money — your income versus your expenses. Positive cash flow means you have money left after covering all costs. Negative cash flow means your spending is higher than your earnings. To improve cash flow, increase income, reduce expenses, or restructure debts. Tracking cash flow regularly helps prevent financial stress and ensures long-term stability.",
+    "level": "beginner"
   }
 ]
