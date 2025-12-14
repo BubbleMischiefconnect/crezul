@@ -5,16 +5,151 @@
     "category": "Budgeting",
     "difficulty": "easy",
     "shortDescription": "Write down everything you spend for one week.",
-    "details": "Use a simple notes app or a spreadsheet. At the end of the week, highlight expenses you didn't really need.",
+    "details": "Tracking expenses is the easiest way to understand where your money is actually going. Use your phone notes or a spending tracker app. At the end of the week, review the list and highlight purchases that were unnecessary or emotional. People typically discover 10–20% of their spending is avoidable.",
     "estimatedMonthlySave": 50
   },
   {
     "id": "tip_2",
     "title": "Use the 24-Hour Rule",
-    "category": "Impulse purchases",
+    "category": "Impulse Control",
     "difficulty": "medium",
     "shortDescription": "Wait one day before non-essential purchases.",
-    "details": "If you still want it after 24 hours, buy it. If not, you just saved money.",
+    "details": "Impulsive decisions often feel urgent, but after 24 hours the desire usually fades. Add items to a wishlist instead of buying immediately. After waiting a day, decide whether it still feels worth the money. This prevents emotional spending and reduces regretful purchases.",
     "estimatedMonthlySave": 80
+  },
+  {
+    "id": "tip_3",
+    "title": "Cancel Unused Subscriptions",
+    "category": "Budget Optimization",
+    "difficulty": "easy",
+    "shortDescription": "Evaluate recurring subscriptions and remove what you don't use.",
+    "details": "Many people pay monthly for services they rarely use—apps, fitness programs, premium accounts, or streaming platforms. Go through your bank statements and check all recurring charges. Cancel anything you haven't used in the last 30 days. Even small subscriptions add up quickly.",
+    "estimatedMonthlySave": 100
+  },
+  {
+    "id": "tip_4",
+    "title": "Plan Your Meals for the Week",
+    "category": "Food Budget",
+    "difficulty": "medium",
+    "shortDescription": "Prepare a weekly meal plan to avoid impulse food spending.",
+    "details": "Meal planning helps you avoid unnecessary food purchases, reduce restaurant expenses, and minimize food waste. Write down meals for the next 5–7 days and buy only what you need. Cooking at home is often 2–3× cheaper than eating out.",
+    "estimatedMonthlySave": 150
+  },
+  {
+    "id": "tip_5",
+    "title": "Use Cash for Discretionary Spending",
+    "category": "Behavioral Control",
+    "difficulty": "medium",
+    "shortDescription": "Withdraw a set amount of cash for personal spending.",
+    "details": "Paying with cash makes you more conscious of how much you spend. Withdraw a fixed weekly amount for entertainment, snacks, or small treats. When the cash runs out, you can't overspend. This builds discipline and reduces emotional purchases.",
+    "estimatedMonthlySave": 40
+  },
+  {
+    "id": "tip_6",
+    "title": "Buy in Bulk for Essentials",
+    "category": "Smart Shopping",
+    "difficulty": "easy",
+    "shortDescription": "Save money by purchasing frequently used items in bulk.",
+    "details": "Products like rice, pasta, cleaning supplies, toilet paper, and canned goods are cheaper when bought in larger quantities. Focus on items you use regularly. Avoid buying large amounts of perishable food to prevent waste.",
+    "estimatedMonthlySave": 60
+  },
+  {
+    "id": "tip_7",
+    "title": "Create a Savings Goal",
+    "category": "Motivation",
+    "difficulty": "easy",
+    "shortDescription": "Set a clear and achievable savings target.",
+    "details": "People save more effectively when they know what they are saving for. Choose a goal such as travel, emergency fund, or debt reduction. Break it into monthly steps. A clear purpose boosts motivation and reduces unnecessary spending.",
+    "estimatedMonthlySave": 30
+  },
+  {
+    "id": "tip_8",
+    "title": "Limit Food Delivery Orders",
+    "category": "Food Budget",
+    "difficulty": "medium",
+    "shortDescription": "Reduce delivery frequency to save on fees and markups.",
+    "details": "Food delivery apps often include high service fees, inflated menu prices, and delivery charges. Try limiting orders to once per week or switching to pickup. Cooking similar meals at home can cost 3–5 times less.",
+    "estimatedMonthlySave": 120
+  },
+  {
+    "id": "tip_9",
+    "title": "Use Price Comparison Tools",
+    "category": "Smart Shopping",
+    "difficulty": "easy",
+    "shortDescription": "Compare prices before making purchases.",
+    "details": "Before buying electronics, clothing, or household items, check multiple online stores. Prices can vary significantly between retailers. Free price comparison tools help you spot better deals instantly.",
+    "estimatedMonthlySave": 70
+  },
+  {
+    "id": "tip_10",
+    "title": "Cut Down on Daily Coffee or Snacks",
+    "category": "Lifestyle",
+    "difficulty": "medium",
+    "shortDescription": "Replace small daily purchases with cheaper alternatives.",
+    "details": "Small habits like daily coffee, snacks, or bottled drinks add up quickly. Preparing coffee at home or bringing snacks with you can save a surprising amount monthly. Even small adjustments lead to meaningful results over time.",
+    "estimatedMonthlySave": 60
+  },
+  {
+    "id": "tip_11",
+    "title": "Sell Items You No Longer Use",
+    "category": "Extra Income",
+    "difficulty": "easy",
+    "shortDescription": "Turn unused belongings into extra cash.",
+    "details": "Many people keep items they no longer need—clothes, electronics, tools, or furniture. Selling these through local marketplaces or apps creates immediate income and frees up space. It's one of the fastest ways to improve your cash flow.",
+    "estimatedMonthlySave": 100
+  },
+  {
+    "id": "tip_12",
+    "title": "Set a Monthly Spending Limit",
+    "category": "Budgeting",
+    "difficulty": "medium",
+    "shortDescription": "Give yourself a clear maximum spend amount each month.",
+    "details": "Determine how much you can safely spend without affecting essential expenses. Track your progress weekly. Having a specific limit helps prevent uncontrolled spending and makes budgeting more predictable.",
+    "estimatedMonthlySave": 90
+  },
+  {
+    "id": "tip_13",
+    "title": "Cook Larger Portions and Freeze Meals",
+    "category": "Food Budget",
+    "difficulty": "medium",
+    "shortDescription": "Save time and money by batch cooking.",
+    "details": "Cooking food in large quantities reduces the need for frequent grocery trips and lowers the temptation to order takeout. Freeze leftovers for busy days. This method is especially effective for soups, stews, pasta dishes, and rice meals.",
+    "estimatedMonthlySave": 70
+  },
+  {
+    "id": "tip_14",
+    "title": "Avoid Shopping When Tired or Hungry",
+    "category": "Impulse Control",
+    "difficulty": "easy",
+    "shortDescription": "Your mental state affects spending choices.",
+    "details": "Studies show that people make worse financial decisions when they are stressed, hungry, or tired. Avoid grocery shopping late at night or after work. Plan shopping trips when you're calm and clear-headed.",
+    "estimatedMonthlySave": 40
+  },
+  {
+    "id": "tip_15",
+    "title": "Switch to Generic Brands",
+    "category": "Smart Shopping",
+    "difficulty": "easy",
+    "shortDescription": "Generic alternatives often cost less with similar quality.",
+    "details": "Brand-name products are usually more expensive due to marketing costs. Generic or store-brand versions often provide the same ingredients and quality for a lower price. Try switching on items like medicine, cleaning products, and packaged food.",
+    "estimatedMonthlySave": 50
+  },
+  {
+    "id": "tip_16",
+    "title": "Use Public Transport or Carpool",
+    "category": "Transportation",
+    "difficulty": "hard",
+    "shortDescription": "Reduce transportation costs by sharing rides.",
+    "details": "Transportation is one of the biggest household expenses. Using public transport, cycling, or carpooling helps reduce fuel costs, parking fees, and vehicle wear. Even reducing car trips by 20–30% noticeably lowers monthly expenses.",
+    "estimatedMonthlySave": 150
+  },
+  {
+    "id": "tip_17",
+    "title": "Set Automatic Transfers to Savings",
+    "category": "Financial Discipline",
+    "difficulty": "easy",
+    "shortDescription": "Pay yourself first by automating your savings.",
+    "details": "Automatic transfers make saving effortless. Set a fixed amount to move into a savings account every payday. When money is saved before you see it, you're less likely to spend it. This builds long-term financial stability and strengthens discipline.",
+    "estimatedMonthlySave": 100
   }
 ]
